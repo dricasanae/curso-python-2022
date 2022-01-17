@@ -1,5 +1,3 @@
-from mailbox import NotEmptyError
-
 
 class Pessoa:
     def __init__(self, cpf = 0,nome = "",idade = 0,cidade = "",genero = ""):
